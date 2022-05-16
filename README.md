@@ -1,34 +1,37 @@
-# M3_Wiper_control_system
------------------------------------------------------------
-# `Badges`
-# CODE QUALITY :
-# CODE GRADE :
-# CODACY :
 
+# BADGES
+# CODE QUALITY ![CODE QUALITY SCORE](https://api.codiga.io/project/33578/score/svg)
+# CODE GRADE ![CODE GRADE](https://api.codiga.io/project/33578/status/svg)
 
-# UNIT TESTING :
-
-
-# CPPCHECK ANALYSIS :
+# CODACY
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/582de052d0cc431987fbefa7848a781f)](https://www.codacy.com/gh/SELVAPRAKASH2/M3_Wiper_control_system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SELVAPRAKASH2/M3_Wiper_control_system&amp;utm_campaign=Badge_Grade)
 
 
 
-# GIT INSPECTOR :
+# UNIT TESTING:
+[![Unit Testing](https://github.com/SELVAPRAKASH2/M3_Wiper_control_system/actions/workflows/Unit%20Testing.yml/badge.svg)](https://github.com/SELVAPRAKASH2/M3_Wiper_control_system/actions/workflows/Unit%20Testing.yml)
 
 
+# CPPCHECK ANALYSIS
+[![Cppcheck Analysis](https://github.com/SELVAPRAKASH2/M3_Wiper_control_system/actions/workflows/Cppcheck%20Analysis.yml/badge.svg)](https://github.com/SELVAPRAKASH2/M3_Wiper_control_system/actions/workflows/Cppcheck%20Analysis.yml)
 
 
-# BUILD ON LINUX :
+# GIT INSPECTOR:
+[![Git Inspector](https://github.com/SELVAPRAKASH2/M3_Wiper_control_system/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/SELVAPRAKASH2/M3_Wiper_control_system/actions/workflows/Git%20Inspector.yml)
 
 
+# BUILD ON LINUX:
+[![Build-Linux](https://github.com/SELVAPRAKASH2/M3_Wiper_control_system/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/SELVAPRAKASH2/M3_Wiper_control_system/actions/workflows/Build-Linux.yml)
 
-# VALGRIND :
-
-
-# OUTPUT RESULT :
-# OFF MODE :
-![OFF mode](https://user-images.githubusercontent.com/102603354/168531715-102cfe99-7eae-47d8-97e8-59e8cbaff669.png)
+# VALGRIND:
+[![Valgrind](https://github.com/SELVAPRAKASH2/M3_Wiper_control_system/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/SELVAPRAKASH2/M3_Wiper_control_system/actions/workflows/Valgrind.yml)
 
 
-# ON MODE :
-![ON mode](https://user-images.githubusercontent.com/102603354/168531764-afee68a7-01e1-40c0-bcf0-ef9b5ed79b36.png)
+# IN ACTION
+
+# OFF MODE:
+![OFF mode](https://user-images.githubusercontent.com/102603354/168533146-00e1d770-8683-4007-b627-f422dc816371.png)
+
+
+# ON MODE:
+![ON mode](https://user-images.githubusercontent.com/102603354/168533173-2e126aa6-5548-40a1-9332-1aa1432f9d76.png)
