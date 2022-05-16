@@ -1,15 +1,15 @@
 # M3_Wiper_control_system
 -----------------------------------------------------------
 # `Badges`
-# CODE QUALITY 
-# CODE GRADE 
-# CODACY
+# CODE QUALITY :
+# CODE GRADE :
+# CODACY :
 
 
 # UNIT TESTING :
 
 
-# CPPCHECK ANALYSIS
+# CPPCHECK ANALYSIS :
 
 
 
@@ -25,7 +25,7 @@
 # VALGRIND :
 
 
-# OUTPUT :
+# OUTPUT RESULT :
 # OFF MODE :
 ![OFF mode](https://user-images.githubusercontent.com/102603354/168531715-102cfe99-7eae-47d8-97e8-59e8cbaff669.png)
 
